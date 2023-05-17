@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/The-Ghostface/The-Ghostface/blob/main/content/dbd.gif" width="8000" height="300" />
+  <img src="https://github.com/The-Ghostface/The-Ghostface/blob/main/content/dbd.gif" width="1000" height="400" />
   <br>
     <br>
 
